@@ -2,6 +2,6 @@
 
 language: c
 
-#script: Makefile
+script: make && make test
 
 compiler: gcc
