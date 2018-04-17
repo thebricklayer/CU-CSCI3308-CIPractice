@@ -1,4 +1,4 @@
-#install: make dep
+before_install: sudo apt-get install check
 
 language: c
 
